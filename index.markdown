@@ -13,7 +13,7 @@ geophysics, mountain biking, inversion, australian shepherd, volunteering, famil
 
 <center>
 <a href="https://www.instagram.com/mtb_rider_bc/">
-  <img src="sdevriese.github.io/_posts/img/insta.PNG" style="width:42px;height:42px;border:0;">
+  <img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/insta.PNG?raw=true" style="width:42px;height:42px;border:0;">
 </a>
 </center>
 
