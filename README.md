@@ -1,2 +1,2 @@
-# sdevriese.github.io
-My personal website
+# Sarah Devriese
+Applied geophysicist, PhD, EIT
