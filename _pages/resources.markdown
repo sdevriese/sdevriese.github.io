@@ -1,24 +1,16 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
+permalink: /publications/
 ---
 
-There are loads of great resources to learn nowadays. Here's a list of sites that I've found useful.
+Under construction!
 
-# Python
-* [Learn Python The Hard Way](https://learnpythonthehardway.org/book/ex0.html)
-If you already have programming experience this is a great way to see how things are done in Python.
+# Thesis
 
-# C/C++
+Devriese, S. G. R., 2016, Detecting and imaging time-lapse conductivity changes using electromagnetic methods, PhD thesis: University of British Columbia.
 
+# Journal
 
-# JavaScript
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-This book has a great introduction to not only JavaScript but numerous computer science topics.
-
-# Matlab
-
-
-# Physics
+# Conference abstracts
 
