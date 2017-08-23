@@ -34,7 +34,7 @@ permalink: /publications/
 
 * **Devriese, S. G. R.** and D. W. Oldenburg, 2016, From exploration to reclamation: Using EM methods at SAGD sites in the Athabasca oil sands: SEG Technical Program Expanded Abstracts, 965-970.
 
-* **evriese, S. G. R.** and D. W. Oldenburg, 2016, Application of sensitivity analysis in DC resistivity of SAGD steam chambers: SEG Technical Program Expanded Abstracts, 937-941.
+* **Devriese, S. G. R.** and D. W. Oldenburg, 2016, Application of sensitivity analysis in DC resistivity of SAGD steam chambers: SEG Technical Program Expanded Abstracts, 937-941.
 
 * **Devriese, S. G. R.** and D. W. Oldenburg, 2015, Time-lapse three-dimensional electromagnetic inversion of growth-impeded SAGD steam chambers: SEG Technical Program Expanded Abstracts, 2842-2847.
 
