@@ -4,7 +4,11 @@ title: Geophysics
 permalink: /geophysics/
 ---
 
-<a href="{{ "/Publications/" | prepend: site.baseurl }}">Publications</a>
+This page is for anything geophysics, and in general science, related.
+
+# Publications
+
+Here is a list of my publications, including thesis and conference abstracts: <a href="{{ "/publications/" | prepend: site.baseurl }}">Publications</a>
 
 
 
