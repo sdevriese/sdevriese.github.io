@@ -12,6 +12,8 @@ I finished my PhD in geophysics in 2016 and am currently a postdoctoral research
 
 I love to ride my bike and ever since university, I've loved to snowboard and ski. I like to sew things and experiment with baking. And I like to write: stories about biking and skiing and geophysics-related papers.
 
+Since spring 2017, my husband and I have an australian shepherd: a stray from Texas that has the biggest personality imaginable. I had to no idea a dog could have such expressions and emotions. I'm trying to understand his language and he's probably thinking the same. He makes my heart leap.
+
 Education:
 
 * Doctor of Philosophy in Geophysics, University of British Columbia, 2016
