@@ -8,7 +8,7 @@ Outside of geophysics, I'm likely at higher elevations mountain biking (or skiin
 
 Throughout summer, I usually guide mountain bike rides at various levels with my local cycling association [TORCA][torca]. I've also guided with the Muddbunnies Riding Club for many years and coached a season with the Coquitlam School District mountain bike team. For 2017, I am a [Norco John Henry ambassador][jh] and have been leading women's group rides with my pal Stacey.
 
-I'm usually much more involved with leading group rides but that changes when we adopted our rescue Australian Shepherd in April 2017. While I'm riding my bike less as he's getting settled, he's definitely more than worth it!!
+I'm usually much more involved with leading group rides but that changed when we adopted our rescue Australian Shepherd in April 2017. While I'm riding my bike less as he's getting settled, he's definitely more than worth it!!
 
 I've been a director on [TORCA's][torca] board for two years now and primarily focus on planning the race series, writing funding grants, drafting monthly meeting agendas, and working with local and provincial governments to legitimize local trail networks.
 
