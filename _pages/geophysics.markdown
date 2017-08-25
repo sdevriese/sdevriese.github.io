@@ -13,12 +13,12 @@ This page is for anything geophysics related, including my projects and publicat
 
 # Projects
 
-## Postdoctoral
+**Postdoctoral**
 
 * Continued development of GIFtools and usage for applied geophysical problems
 * Characterizing the hydrogeology of southern Alberta using airborne EM
 
-## Graduate
+**Graduate**
 
 * Geologically-constrained inversion of airborne EM data over the Athabasca oil sands
 * Time-lapse inversion of electric and EM data for SAGD steam chambers
@@ -33,7 +33,7 @@ This page is for anything geophysics related, including my projects and publicat
 * 3D ZTEM inversion of Eleven Mile Canyon geothermal area in Nevada
 * TDEM inversion of uranium deposit in Virgin River area, Athabasca basin, SK
 
-## Undergraduate
+**Undergraduate**
 
 * Stable downward continuation of magnetic data for UXO applications
 * Geophysics for archaeology at Chimney Rock Great House, CO
