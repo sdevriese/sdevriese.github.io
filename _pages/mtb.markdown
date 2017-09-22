@@ -4,6 +4,15 @@ title: Mountain Biking
 permalink: /mtb/
 ---
 
+<style>
+div {
+    float: right;
+    margin: 0 0 15px 20px;
+    padding: 15px;
+    text-align: center;
+}
+</style>
+
 <div>
 <img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/2017-09-18%2020.02.51.jpg" width="350"><br>Photo by Tom Richards
 </div>
