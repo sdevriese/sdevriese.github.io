@@ -9,7 +9,7 @@ div {
     float: right;
     margin: 0 0 15px 20px;
     padding: 15px;
-    text-align: center;
+    text-align: left;
 }
 </style>
 
