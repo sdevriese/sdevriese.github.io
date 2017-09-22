@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "The benefits of the hardtail: why and when"
+date:   2017-09-22
+categories: mtb
+---
+
+In 2015, I wrote a number of blog posts and interviews for [Ozmosis Training][ozweb]. I hope to add links to these articles here to better archive them and keep a record of what I've written.
+
+The first one and probably most popular one was on the benefits of riding a hardtail (versus a full-suspension bike). Two years later, I still ride my hardtail, especially during the winter, as it is more challenging, requires less cleaning at the end of a ride, and makes me work harder. Since this article, I started riding a drop-bar gravel bike as well and now I'm thinking... I should write a post about how that has benefitted my mountain biking fitness and skills!
+
+Find the article "The benefits of the hardtail: why and when" [here][ozhardtail].
+
+
+I hope to put my significantly longer write up along with all of the code on GitHub soon!
+
+
+[ozweb]: http://www.ozmosistraining.com
+[ozhardtail]: http://www.ozmosistraining.com/blog/the-benefits-of-the-hardtail-why-and-when
+
+<img src="http://www.ozmosistraining.com/uploads/2/4/4/3/24439310/9012680_orig.jpg" width="400" />
+
+
+
+<!--
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+-->
