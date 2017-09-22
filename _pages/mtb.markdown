@@ -9,8 +9,6 @@ permalink: /mtb/
 <tr><td><img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/2017-09-18%2020.02.51.jpg" alt="HOYH" style="float:right;width:350px;"></td></tr>
 <tr><td class="caption">Photo by Tom Richards</td></tr>
 </table>
-
-<img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/2017-09-18%2020.02.51.jpg" alt="HOYH" style="float:right;width:350px;">
 Outside of geophysics, I'm likely at higher elevations mountain biking (or skiing and snowboarding in the winter). Biking is a way to disconnect for a while as I really have to focus on the roots and rocks! I enjoy a steep climb and love the rewarding descent. I also like riding my cross bike, probably because it's in my Belgian genes to do so.
 </p>
 
