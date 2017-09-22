@@ -10,6 +10,7 @@ This page is for anything geophysics related, including my projects and publicat
 
 * [ORCID][http://orcid.org/0000-0003-4305-8416]
 * [Google citations][https://scholar.google.ca/citations?user=MWzVd14AAAAJ&hl=en]
+* [LinkedIn][https://www.linkedin.com/in/sarahdevriese/]
 
 # Education
 
