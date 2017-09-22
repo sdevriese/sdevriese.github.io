@@ -4,7 +4,10 @@ title: Geophysics
 permalink: /geophysics/
 ---
 
+<p>
+<img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/2933_518486162790_1243913_n.jpg" alt="Hammer seismic" style="float:right;width:50px;">
 This page is for anything geophysics related, including my projects and publications.
+</p>
 
 # Elsewhere on the web
 
