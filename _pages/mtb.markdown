@@ -7,8 +7,8 @@ permalink: /mtb/
 <style>
 div {
     float: left;
-    margin: 0 0 0px 20px;
-    padding: 20px;
+    margin: 0 0 5px 5px;
+    padding: 5px;
     text-align: left;
 }
 </style>
