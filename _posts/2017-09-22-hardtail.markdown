@@ -11,14 +11,10 @@ The first one and probably most popular one was on the benefits of riding a hard
 
 Find the article "The benefits of the hardtail: why and when" [here][ozhardtail].
 
-
-I hope to put my significantly longer write up along with all of the code on GitHub soon!
-
-
 [ozweb]: http://www.ozmosistraining.com
 [ozhardtail]: http://www.ozmosistraining.com/blog/the-benefits-of-the-hardtail-why-and-when
 
-<img src="http://www.ozmosistraining.com/uploads/2/4/4/3/24439310/9012680_orig.jpg" width="400" />
+<img src="http://www.ozmosistraining.com/uploads/2/4/4/3/24439310/9012680_orig.jpg" width="600" />
 
 
 
