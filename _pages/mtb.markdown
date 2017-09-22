@@ -4,20 +4,11 @@ title: Mountain Biking
 permalink: /mtb/
 ---
 
-<style>
-div {
-    float: left;
-    margin: 0 0 5px 5px;
-    padding: 5px;
-    text-align: left;
-}
-</style>
 
-<div>
-<img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/2017-09-18%2020.02.51.jpg" width="350"><br>Photo by Tom Richards
-</div>
-
+<p>
+<img src="https://github.com/sdevriese/sdevriese.github.io/raw/master/_posts/img/2017-09-18%2020.02.51.jpg" alt="HOYH" style="float:right;width:350px;">
 Outside of geophysics, I'm likely at higher elevations mountain biking (or skiing and snowboarding in the winter). Biking is a way to disconnect for a while as I really have to focus on the roots and rocks! I enjoy a steep climb and love the rewarding descent. I also like riding my cross bike, probably because it's in my Belgian genes to do so.
+</p>
 
 
 Throughout summer, I usually guide mountain bike rides at various levels with my local cycling association [TORCA][torca]. I've also guided with the Muddbunnies Riding Club for many years and coached a season with the Coquitlam School District mountain bike team. For 2017, I am a [Norco John Henry ambassador][jh] and have been leading women's group rides with my pal Stacey.
