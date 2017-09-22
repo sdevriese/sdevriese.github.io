@@ -6,6 +6,11 @@ permalink: /geophysics/
 
 This page is for anything geophysics related, including my projects and publications.
 
+# Elsewhere on the web
+
+* [ORCID][http://orcid.org/0000-0003-4305-8416]
+* [Google citations][https://scholar.google.ca/citations?user=MWzVd14AAAAJ&hl=en]
+
 # Education
 
 * PhD, Geophysics, The University of British Columbia, 2016
