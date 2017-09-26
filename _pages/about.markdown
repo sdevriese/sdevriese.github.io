@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p>
-<img src="https://avatars1.githubusercontent.com/u/13733333?v=4&s=460" alt="Profile pic" style="float:left;width:200px;">
+<img src="https://avatars1.githubusercontent.com/u/13733333?v=4&s=460" alt="Profile pic" style="float:right;width:200px;">
 Hi, my name is Sarah Devriese. This site is currently under construction as I'm figuring out markdown while also keeping things tidy with Git. Stay tuned!
 </p>
 
