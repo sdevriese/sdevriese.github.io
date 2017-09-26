@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://avatars1.githubusercontent.com/u/13733333?v=4&s=460" width="200" height="200" />
-
+<p>
+<img src="https://avatars1.githubusercontent.com/u/13733333?v=4&s=460" alt="Profile pic" style="float:left;width:200px;">
 Hi, my name is Sarah Devriese. This site is currently under construction as I'm figuring out markdown while also keeping things tidy with Git. Stay tuned!
+</p>
 
 I finished my PhD in geophysics in 2016 and am currently a postdoctoral research fellow with the Geophysical Inversion Facility at the University of British Columbia. My interestes include applied geophysics, inversion, survey design, and data analysis. In broader terms, I'm interested in environmental applications, data science, numerical analysis, and of course mountain biking.
 
