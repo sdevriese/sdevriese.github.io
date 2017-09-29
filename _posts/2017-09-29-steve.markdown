@@ -5,14 +5,14 @@ date:   2017-09-29
 categories: mtb
 ---
 
-<img src="http://www.ozmosistraining.com/uploads/2/4/4/3/24439310/3480119_orig.jpg" width="600" />
+<img src="http://www.ozmosistraining.com/uploads/2/4/4/3/24439310/3480119_orig.jpg" width="700" />
 
 Part of the blog posts I wrote for [Ozmosis Training][ozweb] in 2015 were interviews with people who were in the biking scene in some way or another. Some were part of non-profit organizations, others were in the bike industry. The first interview was with Steve Sheldon about 2.5 years ago. I've gotten to know Steve better since and we are both TORCA directors now. His dog Barley and my dog Raider get along really well too. 
 
 Find the interview "Meet Steve the TORCA builder" [here][ozsteve].
 
 [ozweb]: http://www.ozmosistraining.com
-[ozhardtail]: http://www.ozmosistraining.com/blog/meet-steve-the-torca-builder
+[ozsteve]: http://www.ozmosistraining.com/blog/meet-steve-the-torca-builder
 
 
 
