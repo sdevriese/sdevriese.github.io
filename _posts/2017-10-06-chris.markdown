@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Meet Chris Allen from Pemberton!"
+date:   2017-10-06
+categories: mtb
+---
+
+Today, I'm re-posting an interview with Chris Allen I did 2 years ago. Find the interview with Chris [here][ozchris]!
+
+One of the first times I met Chris was doing a ride in the Chilcotins. My husband had a broken collar bone at the time and he couldn't ride yet. He told me I'd be just fine to go with Chris and his wife and friends on this ride, even though I had been riding only about three months. We made sure I had plenty of food and water with me plus a warm jacket, first aid kit, and enough tools and extras to patch together any mechanicals. And then it was off to the alpine!
+
+Everything started very nice with lots of climbing through pretty meadows.
+
+<img src="https://www.dropbox.com/s/w8fc2vgg0zrnnfz/on-the-way-to-the-alpine.jpg?raw=1" width="700" />
+
+After Camel Pass, things got serious. Here we're pushing up to the first peak.
+
+<img src="https://www.dropbox.com/s/kxr1eeik8twf6fn/first-peak.jpg?raw=1" width="700" />
+
+Incredible views at the top and just enough space on the ledge for a group photo.
+
+<img src="https://www.dropbox.com/s/yjykaofglhev4o4/the-team.jpg?raw=1" width="700" />
+
+Then a bit of riding down before having to push up to the second peak.
+
+<img src="https://www.dropbox.com/s/hfn7ks4wx7tww4p/ridge-ridin-sarah.jpg?raw=1" height="700" />
+
+Up to the third peak, there was quite a bit of exposure. But I followed Sarah (orange helmet) and pushed through. 
+
+<img src="https://www.dropbox.com/s/57i53mx4ngf33gx/exposure.jpg?raw=1" height="700" />
+
+From there, it was a descent down into Cinnabar Meadows and finding the Cinnabar trail. This final trail was the best. A very good reward for a tremendous effort across these mountains. I've never forgotten this day... partly because it scared me and I'm not sure about exposure to this day. But also because I'm proud I did this 8-hour day, 20+ km ride.
+
+[ozchris]: http://www.ozmosistraining.com/blog/meet-chris-allen-from-pemberton
+
+<!--
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+-->
